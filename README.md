@@ -66,8 +66,5 @@ To test the AI Chatbot Gemini project, follow these steps:
 ## 📦 API Reference
 The AI Chatbot Gemini project provides a RESTful API for interacting with the chatbot. The API documentation is available at [https://api.ai-chatbot-gemini.com/docs](https://api.ai-chatbot-gemini.com/docs).
 
-## 👤 Author
-The AI Chatbot Gemini project is developed and maintained by [Prajjwal Rai](https://github.com/prajjwalrai).
-
 ## 📝 License
 The AI Chatbot Gemini project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
